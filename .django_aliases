@@ -1,0 +1,4 @@
+alias rsv="./manage.py runserver"
+alias dshe="./manage.py shell"
+alias mmgr="./manage.py makemigrations"
+alias mgrt="./manage.py migrate" 

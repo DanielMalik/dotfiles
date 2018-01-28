@@ -1,0 +1,6 @@
+alias dps="docker ps"
+alias dex="docker exec -i -t"
+
+drm() { docker rm $(docker ps -a -q); }
+
+

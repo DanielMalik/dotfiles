@@ -1,0 +1,6 @@
+[alias]
+    ci = commit
+    cia = commit --amend
+    br = branch
+    co = checkout
+    
